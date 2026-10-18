@@ -78,34 +78,6 @@ Through these notebooks, I practised:
 - R² score, MAE, and MSE
 - Hyperparameter optimisation as a next step using GridSearchCV
 
-## ⚙️ Installation and Setup
-
-### 1. Clone the repository
-
-```bash
-git clone <your-repository-url>
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd K-Nearest-Neighbours
-```
-
-### 3. Install the required libraries
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
-```
-
-### 4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open either notebook and execute the cells to explore the implementations.
-
 ## 🎯 Learning Objective
 
 The objective of this repository is to develop a practical understanding of KNN algorithms for classification and regression, learn how to evaluate model performance, and explore how the number of neighbours affects predictions.
@@ -126,4 +98,3 @@ The objective of this repository is to develop a practical understanding of KNN 
 **Field:** Data Science and Machine Learning
 
 *This repository is part of my ongoing hands-on learning journey in Python, Data Science, and Machine Learning.*
-

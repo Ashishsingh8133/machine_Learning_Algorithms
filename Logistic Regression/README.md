@@ -91,35 +91,7 @@ Through these notebooks, I practised:
 - Classification metrics: accuracy, precision, recall, and F1-score
 - Confusion matrix and classification report
 - ROC curve, AUC score, and decision thresholds
-- Probability-based predictions using `predict_proba()`
-
-## ⚙️ Installation and Setup
-
-### 1. Clone the repository
-
-```bash
-git clone <your-repository-url>
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd <your-repository-folder>
-```
-
-### 3. Install the required libraries
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
-```
-
-### 4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open any notebook and run the cells to explore the code and results.
+- Probability-based predictions using `predict_proba()`.
 
 ## 🎯 Learning Objective
 

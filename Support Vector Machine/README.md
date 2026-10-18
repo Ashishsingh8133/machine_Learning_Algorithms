@@ -90,34 +90,6 @@ Through these notebooks, I practised:
 - Classification reports and confusion matrices
 - Regression evaluation using the R² score
 
-## ⚙️ Installation and Setup
-
-### 1. Clone the repository
-
-```bash
-git clone <your-repository-url>
-```
-
-### 2. Navigate to the repository
-
-```bash
-cd Support-Vector-Machines
-```
-
-### 3. Install the required libraries
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn plotly jupyter
-```
-
-### 4. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open any notebook and execute the cells to explore the implementations and results.
-
 ## 🎯 Learning Objective
 
 The objective of this repository is to develop a practical understanding of SVM algorithms, kernel functions, feature transformations, regression, classification, and hyperparameter optimisation as part of my ongoing Data Science and Machine Learning journey.

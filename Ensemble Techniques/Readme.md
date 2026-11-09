@@ -81,21 +81,6 @@ The projects cover essential Machine Learning workflows, including data preproce
 - XGBoost
 - Jupyter Notebook
 
-## 📁 Repository Structure
-Machine-Learning-Projects/
-│
-├── Classification/
-│   └── classfication.ipynb
-│
-├── Regression/
-│   └── regressor.ipynb
-│
-├── README.md
-│
-└── datasets/
-    ├── Travel.csv
-    └── cardekho_imputated.csv
-
 ## 🎯 Learning Outcomes
 
 Through these projects, I gained practical experience in:

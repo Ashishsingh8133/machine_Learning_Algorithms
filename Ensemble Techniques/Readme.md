@@ -44,24 +44,23 @@ The projects cover essential Machine Learning workflows, including data preproce
 **Objective:** Develop machine learning regression models to predict car prices using different vehicle characteristics.
 
 **Key Steps:**
-- Data loading and initial exploration.
-- Data cleaning and removal of unnecessary features.
-- Identification of numerical and categorical features.
-- Feature encoding using LabelEncoder and OneHotEncoder.
-- Feature scaling using StandardScaler.
-- Train-test splitting.
-- Training and comparison of multiple regression algorithms.
-- Hyperparameter tuning using RandomizedSearchCV.
-- Model performance evaluation.
+-Performed data cleaning and exploratory data analysis (EDA).
+-Identified numerical, categorical, discrete and continuous features.
+-Removed unnecessary features such as car_name and brand.
+-Applied Label Encoding to the model feature.
+-Implemented ColumnTransformer for preprocessing numerical and categorical features.
+-Used StandardScaler for numerical feature scaling and OneHotEncoder for categorical feature encoding.
+-Split the dataset into training and testing sets (80:20).
+-Trained and compared multiple regression algorithms.
+-Implemented RandomizedSearchCV with 5-fold cross-validation for hyperparameter tuning.
+-Evaluated model performance using R² Score, MAE, MSE and RMSE.
 
 **Algorithms Implemented:**
-- Linear Regression
-- Ridge Regression
-- Lasso Regression
-- ElasticNet Regression
-- Decision Tree Regressor
-- Random Forest Regressor
-- K-Nearest Neighbors Regressor
+-Decision Tree Regressor
+-Random Forest Regressor
+-Gradient Boosting Regressor
+-K-Nearest Neighbours Regressor
+-XGBoost Regressor
 
 **Evaluation Metrics:**
 - Mean Squared Error (MSE)
